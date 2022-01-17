@@ -1,10 +1,4 @@
-# Python TextEditor Code
-# Using Python 3.6.5 and Tkinter
-# By Joel and Ajay
-
-""" NOTE: 1. Lambda function always takes arguments
-          2. Only if u use undo will redo work """
-
+# x11 - PrimeFocus 
 # import tkinter module
 from tkinter import *
 from tkinter.scrolledtext import ScrolledText
